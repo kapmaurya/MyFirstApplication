@@ -22,6 +22,9 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android ")
                 }
             }
+            /////comenthfwfjf
+
+
         }
     }
 }
@@ -41,4 +44,5 @@ fun GreetingPreview() {
     MyFirstApplicationTheme {
         Greeting("Android kapil")
     }
+
 }
