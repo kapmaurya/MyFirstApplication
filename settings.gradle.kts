@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyFirstApplication"
 include(":app")
+include(":MyKotlin")
